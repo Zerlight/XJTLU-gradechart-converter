@@ -8,9 +8,9 @@ The program supports two types of gradecharts: `MODULE STATISTICS` and `PROGRAMM
 
 The program will look for the keywords to recognize file types:
 
-| KEYWORD | TYPE |
-| Module code | MODULE STATISTICS |
-| Programme Code | PROGRAMME STATISTICS |
+|| KEYWORD || TYPE ||
+|| Module code || MODULE STATISTICS ||
+|| Programme Code || PROGRAMME STATISTICS ||
 
 ## JSON File Structure
 
