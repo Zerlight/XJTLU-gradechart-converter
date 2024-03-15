@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "name": "XJTLU-gradechart-converter",
+  "version": "1.0.0",
+  "description": "Convert XJTLU gradechart CSV to json files.",
+  "main": "index.js",
+  "repository": "https://github.com/Zerlight/XJTLU-gradechart-converter",
+  "author": "Zerlight Wu <zerlight@qq.com>",
+  "license": "NONE",
+  "devDependencies": {
+    "@types/node": "^20.11.27"
+  }
+}
